@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 70c15368-8c5d-3048-9fbd-bf548e916982
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 3e1146db-308b-b0c0-fbb3-f64545405b6e
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 6193e126-28a1-20a3-1b61-6796285861c5
+  name: Readings and Study Questions
+  pageRef: /pages/readings-and-study-questions
+  weight: 30
+- identifier: 5a7dc7b5-151b-7937-4981-9fb422b56915
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
