@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://medium.com/mit-media-lab-digital-currency-initiative/the-mit-media-lab-and-the-open-music-initiative-24ccacd126f4#.p624gqm3n
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: The MIT Media Lab and the Open Music Initiative

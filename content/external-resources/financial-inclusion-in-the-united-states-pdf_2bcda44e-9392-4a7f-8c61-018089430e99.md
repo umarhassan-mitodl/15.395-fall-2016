@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://obamawhitehouse.archives.gov/sites/default/files/docs/20160610_financial_inclusion_cea_issue_brief.pdf
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Financial Inclusion in the United States (PDF)

@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Why Bitcoin Matters

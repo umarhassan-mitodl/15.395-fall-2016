@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://joi.ito.com/weblog/2015/01/23/why-bitcoin-is-.html
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Why Bitcoin Is and Isn't like the Internet

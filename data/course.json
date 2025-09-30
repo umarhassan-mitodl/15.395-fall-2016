@@ -32,6 +32,7 @@
     "website": "15-395-entrepreneurship-without-borders-fall-2016"
   },
   "course_title": "Entrepreneurship Without Borders",
+  "hide_download": true,
   "course_description": "This course examines opportunities and problems for entrepreneurs globally, including Europe, Latin America, and Asia. Linkages between the business environment, the institutional framework, and new venture creation are covered with a special focus on blockchain technology. In addition to discussing a range of global entrepreneurial situations, student groups pick one particular cluster on which to focus and to understand what further development would entail. Classroom interactions are based primarily on case studies.\n",
   "department_numbers": [
     "15"
@@ -42,6 +43,7 @@
     "content": "a2aa32f0-97f8-cf96-357e-b7a85ba7d9c0",
     "website": "15-395-entrepreneurship-without-borders-fall-2016"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],
