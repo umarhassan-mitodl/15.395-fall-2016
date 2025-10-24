@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: http://www.multichain.com/blog/2016/06/smart-contracts-the-dao-implosion/
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Smart Contracts and the DAO Implosion

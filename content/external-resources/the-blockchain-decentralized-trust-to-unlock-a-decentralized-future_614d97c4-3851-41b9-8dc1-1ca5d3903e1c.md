@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://oreilly.com/ideas/the-blockchain-decentralized-trust-to-unlock-a-decentralized-future
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: 'The Blockchain: Decentralized Trust to Unlock a Decentralized Future'
